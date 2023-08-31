@@ -48,3 +48,9 @@ https://www.gimp.org/downloads/
 - Numba Cuda - compilado - pré-compilação (10 vezes mais rápido que o numpy) https://github.com/hansalemaos/locate_pixelcolor_numbacuda
 
 - Numexpr - (5 vezes mais rápido que numpy) https://github.com/hansalemaos/locate_pixelcolor
+
+## Outras bibliotecas
+
+- https://github.com/hansalemaos/fast_ctypes_screenshots
+
+- https://github.com/hansalemaos/mousekey
