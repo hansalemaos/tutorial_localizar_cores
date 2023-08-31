@@ -1,3 +1,4 @@
+
 Cython (de 2 a 3 vezes mais rápido que o Numpy)
 https://github.com/hansalemaos/locate_pixelcolor_cythonsingle
 
