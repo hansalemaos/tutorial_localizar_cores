@@ -10,24 +10,26 @@ A automação por cores é uma técnica versátil que pode ser aplicada em vári
 
 Se você gostou deste vídeo, não se esqueça de deixar seu like, se inscrever no canal e ativar o sininho para receber mais conteúdos relacionados a programação e automação. Deixe suas dúvidas e sugestões nos comentários abaixo. Obrigado por assistir!
 
-Todos os vídeos mencionados: 
+## Todos os vídeos mencionados: 
 
-0:20 https://www.youtube.com/watch?v=ZjeWFxj867c&list=PLKPv8puTp8ugZpwhVixnM_koIrOXfSmej
-0:49 https://www.youtube.com/watch?v=KXYFTgS_A1Q
-4:20 https://www.youtube.com/watch?v=2KKgNnghbXI&list=PLKPv8puTp8uhE8OH6tS_GGBfGjk0AlcTc
-6:55 https://www.youtube.com/watch?v=I696ytDkdXo
-9:48 https://www.youtube.com/watch?v=PQS75pnGcFM
-14:41 https://www.youtube.com/watch?v=HqzWiHIcxSA
-14:42 https://www.youtube.com/watch?v=sNZka5H54gQ
-19:03 https://www.youtube.com/watch?v=gaUn3Ng4yrc
-25:35 https://www.youtube.com/watch?v=jy-6TZbg1Gk
-44:19 https://www.youtube.com/watch?v=UDe9LUn_Z3s
-47:31 https://www.youtube.com/watch?v=Q9kid6W2I1w
-48:50 https://www.youtube.com/watch?v=UDe9LUn_Z3s
-49:02 https://www.youtube.com/watch?v=9k1zG-STuX8&list=PLKPv8puTp8ugFo6X33mmltWCOfkaiVHe4
+- 0:20 https://www.youtube.com/watch?v=ZjeWFxj867c&list=PLKPv8puTp8ugZpwhVixnM_koIrOXfSmej
+- 0:49 https://www.youtube.com/watch?v=KXYFTgS_A1Q
+- 4:20 https://www.youtube.com/watch?v=2KKgNnghbXI&list=PLKPv8puTp8uhE8OH6tS_GGBfGjk0AlcTc
+- 6:55 https://www.youtube.com/watch?v=I696ytDkdXo
+- 9:48 https://www.youtube.com/watch?v=PQS75pnGcFM
+- 14:41 https://www.youtube.com/watch?v=HqzWiHIcxSA
+- 14:42 https://www.youtube.com/watch?v=sNZka5H54gQ
+- 19:03 https://www.youtube.com/watch?v=gaUn3Ng4yrc
+- 25:35 https://www.youtube.com/watch?v=jy-6TZbg1Gk
+- 44:19 https://www.youtube.com/watch?v=UDe9LUn_Z3s
+- 47:31 https://www.youtube.com/watch?v=Q9kid6W2I1w
+- 48:50 https://www.youtube.com/watch?v=UDe9LUn_Z3s
+- 49:02 https://www.youtube.com/watch?v=9k1zG-STuX8&list=PLKPv8puTp8ugFo6X33mmltWCOfkaiVHe4
 
-GIMP:
+## GIMP:
 https://www.gimp.org/downloads/
+
+## Bibliotecas para encontrar cores
 
 - Cython (de 2 a 3 vezes mais rápido que o Numpy) https://github.com/hansalemaos/locate_pixelcolor_cythonsingle
 
