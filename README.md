@@ -2,6 +2,8 @@
 [![YT](https://i.ytimg.com/vi/BzGVKqDPMvQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=BzGVKqDPMvQ)
 [https://www.youtube.com/watch?v=BzGVKqDPMvQ]()
 
+O jogo: https://tetris.com/play-tetris
+
 Neste vídeo, vou te mostrar como usar Python para localizar um elemento específico na tela do seu computador com base nas cores e, em seguida, automatizar o clique em um botão. É uma técnica incrivelmente útil para tarefas de automação e interação com interfaces visuais.
 
 O processo envolve definir as cores que você deseja localizar. Usando a captura de tela, o código busca por essas cores em áreas específicas da tela, determinadas pelas coordenadas definidas. Uma vez que as cores são encontradas em posições desejadas, o código executa um clique no local, simulando a interação humana.
